@@ -1,4 +1,4 @@
-package com.company.datastructures.arrays;
+package datastructures.arrays;
 
 public class SubArraySum {
     

@@ -1,4 +1,4 @@
-package com.company.corejava.stream;
+package corejava.stream;
 
 public class StreamAPI {
     public static void main(String[] args){

@@ -1,4 +1,4 @@
-package com.company.datastructures.graph;
+package datastructures.graph;
 
 public class Dijsktra {
     static final int V =9;

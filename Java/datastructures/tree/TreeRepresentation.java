@@ -1,4 +1,4 @@
-package com.company.datastructures.tree;
+package datastructures.tree;
 
 public class TreeRepresentation {
     public static void main(String[] args){

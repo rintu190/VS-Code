@@ -1,4 +1,4 @@
-package com.company.corejava.multiThreading;
+package corejava.multiThreading;
 
 import java.util.List;
 import java.util.concurrent.*;

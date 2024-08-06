@@ -1,4 +1,4 @@
-package com.company.datastructures.stacksQueues;
+package datastructures.stacks;
 
 public class StackImplementation {
     public static void main(String[] args){
