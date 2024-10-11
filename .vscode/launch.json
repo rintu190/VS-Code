@@ -50,5 +50,14 @@
           }
         }
       }
+    ],
+    "configurations": [
+      {
+        "type": "java",
+        "name": "StringPrime",
+        "request": "launch",
+        "mainClass": "corejava.core.StringPrime",
+        "projectName": "VS Code_2304f6f1"
+      }
     ]
   }
